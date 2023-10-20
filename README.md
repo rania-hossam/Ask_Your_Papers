@@ -32,7 +32,7 @@ The resulting application will be evaluated based on it's ability as a tool of c
 
 ## Author
 Rania Hossam  
-LinkedIn: www.linkedin.com/in/aashish-nair  
+LinkedIn: www.linkedin.com/in/rania-hossam55
 Medium: [](https://medium.com/@raniahossam)https://medium.com/@raniahossam
 
 
